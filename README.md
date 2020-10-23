@@ -1,0 +1,1 @@
+This is a javadoc documentation of MERCIR project. See link -> https://github.com/motech-implementations/mots/tree/mercir
